@@ -27,7 +27,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 image: https://cdn.prod.website-files.com/6711ce26e307f8f24769aae2/69731dcb597f1d8b0a7a1920_10e920b909b187e74769354b3d73a6f7_ECL%20open%20graph.png
